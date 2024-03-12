@@ -1,0 +1,35 @@
+*{
+    background-color:  beige;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+
+body{
+    font-size: 40px;
+}
+
+.title{
+    
+}
+
+.list{
+    font-size: 30px;
+    color: slategray;
+    padding: 10px;
+    width: fit-content;
+}
+
+#one{
+    border: 5px solid red;
+    
+}
+
+#two{
+    margin: 30px 30px;
+    border: 5px dashed brown;
+}
+
+#three{
+    margin: 30px 60px;
+    border: 10px inset slategray;
+}
